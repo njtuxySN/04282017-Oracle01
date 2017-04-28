@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="https://github.com/njtuxySN/04282017-Oracle01.git Table" language="en" table="x_https_github_c_https_github_com_njtuxysn_04282017_oracle01_git_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>https://github.com/njtuxySN/04282017-Oracle01.git Table</label>
+            <language>en</language>
+            <name>x_https_github_c_https_github_com_njtuxysn_04282017_oracle01_git_table</name>
+            <plural>https://github.com/njtuxySN/04282017-Oracle01.git Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-28 18:50:18</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>46a14fd7fcd23200964f1bd440292077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>https://github.com/njtuxySN/04282017-Oracle01.git Table</sys_name>
+            <sys_package display_value="https://github.com/njtuxySN/04282017-Oracle01.git" source="x_https_github_c">b7910bd7fcd23200964f1bd440292007</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="https://github.com/njtuxySN/04282017-Oracle01.git">b7910bd7fcd23200964f1bd440292007</sys_scope>
+            <sys_update_name>sys_documentation_x_https_github_c_https_github_com_njtuxysn_04282017_oracle01_git_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-28 18:50:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="https://github.com/njtuxySN/04282017-Oracle01.git Table" max_length="40" name="x_https_github_c_https_github_com_njtuxysn_04282017_oracle01_git_table" type="collection"/>
+</database>
