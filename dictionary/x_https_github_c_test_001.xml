@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_hardware" label="test_001" max_length="40" name="x_https_github_c_test_001" type="collection"/>
+</database>
